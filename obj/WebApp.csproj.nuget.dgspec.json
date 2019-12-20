@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/Macintosh HD2/RnDAndLearning/CI_CD/LearnAzureDevopsCICDPipelines/WebAppWithDatabaseDemo/WebApp/WebApp.csproj": {}
+  },
+  "projects": {
+    "/Volumes/Macintosh HD2/RnDAndLearning/CI_CD/LearnAzureDevopsCICDPipelines/WebAppWithDatabaseDemo/WebApp/WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Macintosh HD2/RnDAndLearning/CI_CD/LearnAzureDevopsCICDPipelines/WebAppWithDatabaseDemo/WebApp/WebApp.csproj",
+        "projectName": "WebApp",
+        "projectPath": "/Volumes/Macintosh HD2/RnDAndLearning/CI_CD/LearnAzureDevopsCICDPipelines/WebAppWithDatabaseDemo/WebApp/WebApp.csproj",
+        "packagesPath": "/Users/sumantmishra/.nuget/packages/",
+        "outputPath": "/Volumes/Macintosh HD2/RnDAndLearning/CI_CD/LearnAzureDevopsCICDPipelines/WebAppWithDatabaseDemo/WebApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sumantmishra/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

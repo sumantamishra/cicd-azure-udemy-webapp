@@ -1,0 +1,14 @@
+/Volumes/Macintosh HD2/RnDAndLearning/CI_CD/LearnAzureDevopsCICDPipelines/WebAppWithDatabaseDemo/WebApp/bin/Debug/netcoreapp2.0/appsettings.Development.json
+/Volumes/Macintosh HD2/RnDAndLearning/CI_CD/LearnAzureDevopsCICDPipelines/WebAppWithDatabaseDemo/WebApp/bin/Debug/netcoreapp2.0/appsettings.json
+/Volumes/Macintosh HD2/RnDAndLearning/CI_CD/LearnAzureDevopsCICDPipelines/WebAppWithDatabaseDemo/WebApp/bin/Debug/netcoreapp2.0/bundleconfig.json
+/Volumes/Macintosh HD2/RnDAndLearning/CI_CD/LearnAzureDevopsCICDPipelines/WebAppWithDatabaseDemo/WebApp/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+/Volumes/Macintosh HD2/RnDAndLearning/CI_CD/LearnAzureDevopsCICDPipelines/WebAppWithDatabaseDemo/WebApp/bin/Debug/netcoreapp2.0/WebApp.deps.json
+/Volumes/Macintosh HD2/RnDAndLearning/CI_CD/LearnAzureDevopsCICDPipelines/WebAppWithDatabaseDemo/WebApp/bin/Debug/netcoreapp2.0/WebApp.runtimeconfig.json
+/Volumes/Macintosh HD2/RnDAndLearning/CI_CD/LearnAzureDevopsCICDPipelines/WebAppWithDatabaseDemo/WebApp/bin/Debug/netcoreapp2.0/WebApp.runtimeconfig.dev.json
+/Volumes/Macintosh HD2/RnDAndLearning/CI_CD/LearnAzureDevopsCICDPipelines/WebAppWithDatabaseDemo/WebApp/bin/Debug/netcoreapp2.0/WebApp.dll
+/Volumes/Macintosh HD2/RnDAndLearning/CI_CD/LearnAzureDevopsCICDPipelines/WebAppWithDatabaseDemo/WebApp/bin/Debug/netcoreapp2.0/WebApp.pdb
+/Volumes/Macintosh HD2/RnDAndLearning/CI_CD/LearnAzureDevopsCICDPipelines/WebAppWithDatabaseDemo/WebApp/obj/Debug/netcoreapp2.0/WebApp.csprojAssemblyReference.cache
+/Volumes/Macintosh HD2/RnDAndLearning/CI_CD/LearnAzureDevopsCICDPipelines/WebAppWithDatabaseDemo/WebApp/obj/Debug/netcoreapp2.0/WebApp.AssemblyInfoInputs.cache
+/Volumes/Macintosh HD2/RnDAndLearning/CI_CD/LearnAzureDevopsCICDPipelines/WebAppWithDatabaseDemo/WebApp/obj/Debug/netcoreapp2.0/WebApp.AssemblyInfo.cs
+/Volumes/Macintosh HD2/RnDAndLearning/CI_CD/LearnAzureDevopsCICDPipelines/WebAppWithDatabaseDemo/WebApp/obj/Debug/netcoreapp2.0/WebApp.dll
+/Volumes/Macintosh HD2/RnDAndLearning/CI_CD/LearnAzureDevopsCICDPipelines/WebAppWithDatabaseDemo/WebApp/obj/Debug/netcoreapp2.0/WebApp.pdb
